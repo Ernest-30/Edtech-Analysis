@@ -58,7 +58,7 @@ The analysis was done using Microsoft Power BI.
 ### Leads Demography:
 The Leads Demography report provides a breakdown of leads based on various attributes such as age, gender, current city, current education, and parent occupation. These visualizations will offer valuable insights into the target audience, and will help the business team tailor their sales strategies and messaging to cater to specific demographics. Understanding the demographic distribution of leads will empower the team to make informed decisions on how to best engage and convert potential customers.
 
-![image](https://github.com/Ernest-30/Edtech-Analysis/assets/123366282/f86b6e34-0eaa-4d3e-8acc-149471c04d33)
+![image](https://github.com/Ernest-30/Edtech-Analysis/assets/123366282/57caa140-2c97-43e5-b603-cd79c3503ddb)
 
 From the analysis above, the following insights was uncovered;
 
@@ -78,7 +78,7 @@ From the analysis above, the following insights was uncovered;
 ### Team Performance Analysis:
 To provide insights into team performance, I designed a dashboard that showcased individual team members' activities and outcomes. This dashboard allowed Business heads to compare individual team member performance, identifying top performers and areas where additional support might be required. Metrics such as the number of calls made, leads funnel,conversions and response rates will help the Business heads understand how each team member was contributing to the overall success of the sales team.
 
-![image](https://github.com/Ernest-30/Edtech-Analysis/assets/123366282/cb292d3e-bef3-4804-9947-8c7694addd55)
+![image](https://github.com/Ernest-30/Edtech-Analysis/assets/123366282/6dc05030-afa3-49fd-a5d2-70bbf5e9c67f)
 
 From the analysis above, the following insights was uncovered;
 
@@ -106,7 +106,7 @@ From the analysis above, the following insights was uncovered;
 ### Lead Source Performance:
 The Lead Source Performance report provides a comprehensive analysis of lead generation sources. By analyzing the performance of different lead sources, the business team will gain valuable insights into which sources were most effective in generating high-quality leads. The report showcased metrics such as lead volume per lead source, conversion rates per lead source, and lead source distribution across various segments like; age_group, current location, gender etc. Armed with this information, the team will be able to optimize their marketing and lead generation efforts, focusing on the sources that yielded the best results. This approach will help to allocate resources efficiently and maximize return on investment (ROI).
 
-![image](https://github.com/Ernest-30/Edtech-Analysis/assets/123366282/f5d1f404-81c4-45e5-ae73-6b8c3379c20a)
+![image](https://github.com/Ernest-30/Edtech-Analysis/assets/123366282/9d5570eb-0189-4956-9f8e-305a686d15f4)
 
 From the analysis above, the following insights were uncovered;
 
@@ -142,7 +142,7 @@ From the analysis above, the following insights were uncovered;
 ### Watched Demo Report:
 The Watched Demo Report offers a detailed analysis of leads who watched product demos. It includes metrics such as the percentage of the demo session watched, number of leads that watched the demo accross different segments, languages preferred, and reasons for not showing interest in the demo. By understanding how leads engage with the demo content, the business team will gain insights into the effectiveness of their product demonstrations. The report highlights opportunities to improve demo content, address language preferences, and understand the reasons for disinterest. Armed with this information, the team will tailor demos to better resonate with potential customers, increasing the likelihood of conversions.
 
-![image](https://github.com/Ernest-30/Edtech-Analysis/assets/123366282/3752c23f-f531-4040-ba59-3a06dddb1267)
+![image](https://github.com/Ernest-30/Edtech-Analysis/assets/123366282/b1097b75-6776-4f34-93ad-78d5484dbf25)
 
 From the analysis above, the following insights were uncovered;
 
