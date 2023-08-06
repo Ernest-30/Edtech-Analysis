@@ -35,8 +35,11 @@ Dataset provided contains:
 
 Identify the right metrics and run an analysis that will help the;
 a. Business team to understand the lead's journey and stages with scope for improvement
+
 b. Business heads to understand their team performance
+
 c. Managers to understand their target areas
+
 d. Build the best suitable dashboard presenting your insights.
 
 ## Analysis
