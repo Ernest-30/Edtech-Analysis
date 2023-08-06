@@ -1,7 +1,35 @@
 # Edtech-Analysis
 
 ## Overview
-In this analysis, we leveraged the power of Power BI to gain valuable insights and extract meaningful information from various datasets related to lead management and sales performance. The analysis focused on providing a comprehensive view of the lead journey, team performance, target areas, and outlier identification.
+In this analysis, we leveraged the power of Power BI to gain valuable insights and extract meaningful information from various datasets related to lead management and sales performance. The analysis focused on providing a comprehensive view of the lead journey, team performance, Lead source performance and watched demo report.
+
+## About the Dataset
+The dataset contains a month’s data of Edtech Business sales report. The dataset contains the details of the leads in various stages of the customer acquisition flow. The timeline covered is January to February 2022.
+
+#### Customer Acquisition Key Stages:
+
+Lead - Awareness - Consideration - Conversion
+
+Dataset provided contains:
+- Basic details of leads
+- Hierarchy structure of sales managers and their assigned leads
+- Lead interaction details
+- Demo watched details of leads
+- Reason for not being interested
+
+1.	lead_basic_details: Contains details of the leads.
+
+2.	sales_managers_assigned_leads_details: Contains the details of the senior and junior sales managers and their assigned leads.
+- Each senior sales manager is assigned to 4 junior sales managers.
+- Each junior sales manager is assigned few leads in each cycle (a cycle is approximately a week).
+
+3.	leads_interaction_details: Contains the details of call interactions of junior sales managers with the leads.
+  - A lead can drop out at any stage of the flow. If there is no call by the junior sales manager to the lead after a certain stage then the lead is considered as dropped at that stage.
+
+4.	leads_demo_watched_details: Contains the details of the demo session watched by the leads.
+
+5.	leads_reasons_for_no_interest: Contains the details of the reasons given by the leads for their lack of interest.
+
 
 ## Business Task
 
