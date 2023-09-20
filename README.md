@@ -34,6 +34,7 @@ Dataset provided contains:
 ## Business Task
 
 Identify the right metrics and run an analysis that will help the;
+
 a. Business team to understand the lead's journey and stages with scope for improvement
 
 b. Business heads to understand their team performance
