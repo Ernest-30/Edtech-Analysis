@@ -176,8 +176,6 @@ The overall dashboard was created using Microsoft Power BI. The Dashboard consis
 - Lead source performance
 - Watched demo report
   
-Click [HERE](https://github.com/Ernest-30/Edtech-Analysis/blob/main/Edtech%20Dashboard.pbix) to download and view the full interactive dashboard.
-
 
 ## Conclusions
 
