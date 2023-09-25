@@ -11,6 +11,7 @@ The dataset contains a month’s data of Edtech Business sales report. The datas
 Lead - Awareness - Consideration - Conversion
 
 Dataset provided contains:
+
 - Basic details of leads
 - Hierarchy structure of sales managers and their assigned leads
 - Lead interaction details
